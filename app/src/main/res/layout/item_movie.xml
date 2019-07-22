@@ -38,7 +38,8 @@
                 android:layout_marginBottom="4dp"
                 android:layout_toRightOf="@id/ivPoster"
                 android:gravity="center"
-                android:textSize="15dp"
+                android:textSize="18dp"
+                app:fontFamily="@font/abril_fatface"
 
                 tools:text="Spider-Man: Far from Home" />
 
