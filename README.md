@@ -24,7 +24,7 @@ Submitted by : **THOMAS Jeff Iberdo**
 ### App Walkthough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/Ido-T/Flickster-Master/blob/master/walkthrough.gif" width=250><br>
 
 ### Notes
 
